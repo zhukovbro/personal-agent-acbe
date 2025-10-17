@@ -19,6 +19,7 @@ AC Business Experts/
     │   ├── Clients/          # Client management and tracking
     │   ├── Services/         # Service descriptions and offerings
     │   ├── Procedures/       # Business processes and workflows
+    │   ├── Competitors/      # Competitive analysis and market intelligence
     │   └── Templates/        # Document templates and forms
     ├── Finance/              # 💰 Financial management and tracking
     ├── Learning/             # 🎓 Training and knowledge management
@@ -146,6 +147,40 @@ See `Docs/My Company Example/Projects/Client-Beauty2-Follow-Up-2025-11-08.md` fo
 - **Same language patterns**: Maintain "как мы обсудили на звонке" references for authenticity
 
 **Use this format when providing follow-up summaries in chat conversations after analyzing project call files.**
+
+## Competitor Analysis Process [CANONICAL]
+
+**Deep Research Required**: When user requests competitor analysis, conduct comprehensive research across multiple sources. Key areas to research: company websites, service pages, pricing information, founder backgrounds, press releases, client testimonials, case studies, and market positioning. Use web search for funding information, founder LinkedIn profiles, industry coverage, and competitor comparisons.
+
+**Process**:
+1. **Research**: Conduct comprehensive research per requirements above
+2. **Create**: `[company-name]-analysis.md` using 8-section template (Company Overview → Monitoring Metrics)
+3. **Classify**: Direct Competitor (🔴 HIGH) | Indirect Competitor (🟠 MEDIUM) | Potential Competitor (🟡 LOW) | Complementary (🟢 NONE)
+4. **Update Summary**: Update `competitive-landscape-summary.md` with cross-references
+
+**Template Structure**:
+- **Company Overview**: Basic company information, mission, positioning
+- **Funding & Business Model**: Revenue model, pricing strategy
+- **Target Market & Positioning**: Client focus, market position
+- **Service Features & Capabilities**: Core services, unique capabilities
+- **Competitive Comparison**: Advantages/disadvantages vs AC Business Experts
+- **Threat Assessment**: Threat level and competitive pressure points
+- **Opportunities & Strategic Implications**: Partnership, differentiation, defensive strategies
+- **Recommendations**: Short-term, medium-term, long-term actions
+- **Action Items**: Specific tasks with assignments and deadlines
+- **Monitoring Metrics**: Key indicators, sources, review schedule
+
+**Input Command**: `"Появился новый конкурент в сфере регистрации компаний в ОАЭ, [Название компании], сделай его анализ по нашему workflow и сложи в соответствующую папочку"`
+
+**Output Files**:
+- `[competitor-name]-analysis.md` - Detailed competitor analysis
+- `competitive-landscape-summary.md` - Updated market overview (if needed)
+
+**Reference Files**:
+- `Docs/Business/Competitors/README.md` - Workflow instructions
+- `Docs/Business/Competitors/competitor-analysis-template.md` - Analysis template
+- `Docs/Business/Competitors/competitive-landscape-summary.md` - Market overview
+- `Docs/Business/Competitors/monitoring-checklist.md` - Monitoring guidelines
 
 ## Information Architecture & Anti-Hallucination Rules
 
