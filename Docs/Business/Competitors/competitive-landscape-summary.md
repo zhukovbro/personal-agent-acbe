@@ -30,6 +30,7 @@ UAE Business Registration Ecosystem
 | **Company** | **Focus** | **Threat Level** | **Market Position** | **Key Differentiator** |
 |-------------|-----------|------------------|-------------------|----------------------|
 | **AC Business Experts** | Comprehensive Business Setup | - | [POSITION] | Full-service + ongoing support |
+| **Sorp Group** | Full-service Business Registration | 🔴 HIGH | Established player | 15+ years experience + own business center |
 | **DMCC Business Center** | Free Zone Registration | 🔴 HIGH | Market leader | Dubai location + established brand |
 | **ADGM Business Center** | Financial Services Setup | 🟠 MEDIUM | Specialized focus | Financial services expertise |
 | **JAFZA Business Center** | Industrial Free Zone | 🟠 MEDIUM | Industrial focus | Manufacturing and logistics |
@@ -82,10 +83,10 @@ Basic Setup ──→ Comprehensive Support
 ## 🚨 Threat Assessment [CANONICAL]
 
 ### 🔴 HIGH THREAT (Direct Competitors)
-**DMCC Business Center, ADGM Business Center**
-- **Why:** Same core market, established presence, government backing
-- **Response Strategy:** Emphasize personalized service, ongoing support, competitive pricing
-- **Monitoring Priority:** Service updates, pricing changes, client acquisition
+**Sorp Group, DMCC Business Center, ADGM Business Center**
+- **Why:** Same core market, established presence, comprehensive service offering
+- **Response Strategy:** Emphasize superior service quality, digital innovation, personalized approach
+- **Monitoring Priority:** Service updates, pricing changes, client acquisition, process improvements
 
 ### 🟠 MEDIUM THREAT (Platform/Adjacent)  
 **Online Platforms, Legal Firms, JAFZA Business Center**
@@ -163,10 +164,10 @@ Basic Setup ──→ Comprehensive Support
 **AC Business Experts** is positioned as a comprehensive business setup and development partner, differentiating from basic setup providers through ongoing support and personalized service.
 
 ### Immediate Priorities
-1. **Monitor DMCC and ADGM** - Track service updates and pricing changes
+1. **Monitor Sorp Group, DMCC and ADGM** - Track service updates and pricing changes
 2. **Develop Partnership Strategy** - Identify collaboration opportunities
-3. **Enhance Digital Presence** - Compete with online platforms
-4. **Expand Service Portfolio** - Address market gaps
+3. **Enhance Digital Presence** - Compete with online platforms and traditional competitors
+4. **Expand Service Portfolio** - Address market gaps and differentiate from established players
 
 ### Long-term Strategy
 1. **Market Leadership** - Become the go-to provider for comprehensive business services
